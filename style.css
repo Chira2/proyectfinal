@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:#ffd438 ;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.titulo p{
+  font-size: 50px;
+  font-family: Consolas;
+  color: #2c7cba;
+  text-align: center;
+}
+.contenido img{
+  height: 450px;
+}
+.enlaces a{
+  font-size: 20px;
+  font-family: Consolas;
+  color: #2c7cba;
+  text-align: center;
+}
+.contenido2 img{
+  height: 250px;
+}
+
+.contenido2 p{
+  font-size: 20px;
+  font-family: Consolas;
+  color: #ba2c2c;
+  text-align: center;
+}
+.lista ul{
+  font-size: 20px;
+  font-family: Consolas;
+  color: #4aba2c;
+  text-align: center;
+}
